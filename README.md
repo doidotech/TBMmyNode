@@ -12,6 +12,7 @@ c. Run the command to delete the service unit file.
  sudo rm /lib/systemd/system/myNodeST7735LCD.service 
 
 d. Safely reboot the device, the run the following commands to reinstall new MynodeLCD.
+
 git clone https://github.com/doidotech/TBMmyNode.git
 
 cd TBMmyNode/
